@@ -1,4 +1,11 @@
-flask
-numpy
-pandas
-requests
+blinker
+click
+dotenv
+Flask
+flask-cors
+itsdangerous
+Jinja2
+MarkupSafe
+PyMySQL
+python-dotenv
+Werkzeug
